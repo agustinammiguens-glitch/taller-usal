@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "agustinammiguens-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269227837?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "agustinammiguens-glitch",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-18T15:54:25.583Z",
-    "updated_at": "2026-03-18T15:54:25.583Z"
-  }
+    "updated_at": "2026-03-18T15:54:25.583Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "622de78b-9bd4-4a9d-8495-4faa8921292a": {
+      "content": [],
+      "created_at": "2026-03-18T15:54:25.621Z",
+      "created_by": "agustinammiguens-glitch",
+      "title": "Taller USAL",
+      "updated_at": "2026-03-18T15:54:25.621Z",
+      "updated_by": "agustinammiguens-glitch",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "622de78b-9bd4-4a9d-8495-4faa8921292a"
+  ]
 }
